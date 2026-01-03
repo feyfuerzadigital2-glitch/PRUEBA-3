@@ -1,0 +1,8 @@
+{
+  "name": "METODOS VIP - Course Platform",
+  "description": "A premium dark-themed course platform featuring dynamic lesson switching, video player, and AI-powered tutor integration.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
